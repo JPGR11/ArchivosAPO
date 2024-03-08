@@ -1,0 +1,549 @@
+<mxfile host="app.diagrams.net" modified="2024-03-02T20:11:22.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6MqaniMPVw-1-td-UVDy" version="24.0.0" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1753" dy="1617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="oO0bYbiZ8bRW-fSFhfre-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tr2eWZkVwBnECGGWDfGg-0" target="oO0bYbiZ8bRW-fSFhfre-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr2eWZkVwBnECGGWDfGg-0" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="310.01" y="-290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-1" target="krPlbpfWzNV4lJsfmJuA-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-1" value="The software asks the trip is going to be alone or with friends" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="223.75" y="90" width="242.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-2" target="krPlbpfWzNV4lJsfmJuA-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-2" value="The program asks for an approximation of the weight of the luggage/baggage" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="241.87" y="180" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-3" target="krPlbpfWzNV4lJsfmJuA-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-3" value="It calculates the price of the plan S. It taken the price of the plan XS and it is added the product of 25% and the price of the plan XS, which is 175.000." style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="227.5" y="270" width="235" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-4" target="krPlbpfWzNV4lJsfmJuA-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-4" value="It calculates the price of the plan M. It taken the price of the plan S and it is added the product of 30% and the price of the plan S, which is 218.750." style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="227.5" y="360" width="235" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-13" target="krPlbpfWzNV4lJsfmJuA-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-28" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-18" vertex="1" connectable="0">
+          <mxGeometry x="-0.2286" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-13" target="krPlbpfWzNV4lJsfmJuA-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="500" />
+              <mxPoint x="480" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-30" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.1065" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-13" value="if the weight is less than 3" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="285" y="450" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-17" target="krPlbpfWzNV4lJsfmJuA-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-17" value="A message appears saying: The plan XS includes a personal item that can be 3 kilograms or less and checking:web/app" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="217.5" y="600" width="255" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-20" target="krPlbpfWzNV4lJsfmJuA-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-20" value="A message appears saying: The plan S includes a personal item that can be 3 kilograms or less, luggage of less than 10 kilograms, win miles to get different prices and checking:web/app" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="217.5" y="710" width="255" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-21" target="krPlbpfWzNV4lJsfmJuA-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-21" value="A message appears saying: The plan M includes a personal item that can be 3 kilograms or less, luggage of&amp;nbsp; 10 kilograms or less, baggage of 23 kilograms or less, win miles to get different prices, being able to choose the seat and checking:web/app" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="216.88" y="810" width="255" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-25" target="krPlbpfWzNV4lJsfmJuA-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="690" />
+              <mxPoint x="345" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-33" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-32" vertex="1" connectable="0">
+          <mxGeometry x="-0.1562" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-25" target="krPlbpfWzNV4lJsfmJuA-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-40" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-39" vertex="1" connectable="0">
+          <mxGeometry x="-0.0428" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-25" value="If the weight is more than 3 but less than 13" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="530" y="445" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-38" target="krPlbpfWzNV4lJsfmJuA-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="835" y="800" />
+              <mxPoint x="345" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-42" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-41" vertex="1" connectable="0">
+          <mxGeometry x="0.1224" y="4" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-38" target="krPlbpfWzNV4lJsfmJuA-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-45" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-44" vertex="1" connectable="0">
+          <mxGeometry x="0.1926" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-38" value="If the weight is more than 13 but less than 36" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="760" y="445" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-43" target="krPlbpfWzNV4lJsfmJuA-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-43" value="Weight is more than 36" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1000" y="447.5" width="150" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-46" target="krPlbpfWzNV4lJsfmJuA-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1075" y="910" />
+              <mxPoint x="345" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-54" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-53" vertex="1" connectable="0">
+          <mxGeometry x="0.2183" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-46" value="It shows a message saying that the plans can´t completely cover the weight, so it suggests to get the extra bag service plus the plan M" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="930" y="620" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-49" value="The program reads the answer given to which plan the user wants." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="208.75" y="930" width="272.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-52" target="krPlbpfWzNV4lJsfmJuA-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-57" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-56" vertex="1" connectable="0">
+          <mxGeometry x="-0.3196" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-52" target="krPlbpfWzNV4lJsfmJuA-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-61" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-60" vertex="1" connectable="0">
+          <mxGeometry x="-0.3556" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-52" value="If the user chose plan XS" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="1020" width="108.75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-55" target="krPlbpfWzNV4lJsfmJuA-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-55" value="Add 175.000 to the price of that ticket." style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="284.38" y="1169" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-59" target="krPlbpfWzNV4lJsfmJuA-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-69" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-65" vertex="1" connectable="0">
+          <mxGeometry x="-0.2181" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-59" target="krPlbpfWzNV4lJsfmJuA-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-68" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-67" vertex="1" connectable="0">
+          <mxGeometry x="-0.0181" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-59" value="If the user chose plan S" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="481.25" y="1020" width="108.75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-62" value="If the user chose plan M" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="656.88" y="1020" width="108.75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-63" target="krPlbpfWzNV4lJsfmJuA-72" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="536" y="1250" />
+              <mxPoint x="344" y="1250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-63" value="Add 218.750 to the price of that ticket." style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="475.63" y="1169" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-64" target="krPlbpfWzNV4lJsfmJuA-72" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="711" y="1250" />
+              <mxPoint x="344" y="1250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-64" value="Add 284.375 to the price of that ticket." style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="651.26" y="1169" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-62" target="krPlbpfWzNV4lJsfmJuA-64" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-70" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-66" vertex="1" connectable="0">
+          <mxGeometry x="-0.114" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-72" target="krPlbpfWzNV4lJsfmJuA-76" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-78" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-77" vertex="1" connectable="0">
+          <mxGeometry x="-0.1272" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-72" target="krPlbpfWzNV4lJsfmJuA-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-100" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-98" vertex="1" connectable="0">
+          <mxGeometry x="-0.0777" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-72" value="If the User chose the plan M" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="297" y="1270" width="96" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-76" target="krPlbpfWzNV4lJsfmJuA-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-76" value="Ask if the user wants to be able to choose the seat." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="670" y="1280" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-79" target="krPlbpfWzNV4lJsfmJuA-166" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-79" value="It asks what seat does the user want to go, window, hall or middle." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="247.18" y="1480" width="195.63" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-83" target="krPlbpfWzNV4lJsfmJuA-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-97" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-96" vertex="1" connectable="0">
+          <mxGeometry x="0.0857" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-83" target="krPlbpfWzNV4lJsfmJuA-88" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="1590" />
+              <mxPoint x="344" y="1590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-176" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-175" vertex="1" connectable="0">
+          <mxGeometry x="-0.0869" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-83" value="User wants to be able to choose?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="700" y="1380" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-88" target="krPlbpfWzNV4lJsfmJuA-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-88" value="It asks if the user is willing to get the additional services: Additional luggage of 10kg (Max 3) or Additional baggage of 23 kg (Max 2)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="220.78" y="1620" width="247.19" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="krPlbpfWzNV4lJsfmJuA-103" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="1821" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-105" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-104" vertex="1" connectable="0">
+          <mxGeometry x="-0.2572" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402.80999999999995" y="1771" as="sourcePoint" />
+            <mxPoint x="473" y="1771" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-108" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-107" vertex="1" connectable="0">
+          <mxGeometry x="-0.0136" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-92" value="Is the user willing to get the additional services?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="287.19" y="1720" width="115.62" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-94" target="krPlbpfWzNV4lJsfmJuA-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-94" value="It adds 50.000 to the total price" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="481.25" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-103" target="krPlbpfWzNV4lJsfmJuA-134" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-103" value="Shows the total price of the ticket and services" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="262.5" y="2151" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="1771" as="sourcePoint" />
+            <mxPoint x="720" y="1771" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-106" value="It asks if the user wants to add lugage?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="463" y="1740" width="197" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="1811" as="sourcePoint" />
+            <mxPoint x="760" y="1861" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-114" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-113" vertex="1" connectable="0">
+          <mxGeometry x="-0.2171" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="1771" as="sourcePoint" />
+            <mxPoint x="890" y="1771" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-122" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-120" vertex="1" connectable="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-123" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-120" vertex="1" connectable="0">
+          <mxGeometry y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-109" value="Additional luggage" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="720" y="1730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-115" target="krPlbpfWzNV4lJsfmJuA-116" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-115" value="How many does the user want(max 3)?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="685" y="1861" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-116" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="978.5" y="1801" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-116" value="It times the price of the additional (50.000) luggage by the amount required" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="700" y="1951" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1185" y="1771" as="targetPoint" />
+            <mxPoint x="1067.0000000000005" y="1771" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-119" value="It asks if the user wants to add bagage?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="880" y="1740" width="197" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="krPlbpfWzNV4lJsfmJuA-125" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1225" y="1811" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-129" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-128" vertex="1" connectable="0">
+          <mxGeometry x="-0.24" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="krPlbpfWzNV4lJsfmJuA-103" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1265" y="1771" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1410" y="1771" />
+              <mxPoint x="1410" y="2101" />
+              <mxPoint x="345" y="2101" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-124" value="Additional baggage" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1185" y="1730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-125" target="krPlbpfWzNV4lJsfmJuA-126" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-125" value="How many does the user want(max 3)?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1150" y="1861" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-126" target="krPlbpfWzNV4lJsfmJuA-103" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1225" y="2101" />
+              <mxPoint x="345" y="2101" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-126" value="It times the price of the additional (100.000) baggage by the amount required" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1165" y="1951" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-159" target="krPlbpfWzNV4lJsfmJuA-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110.00999999999988" y="180" as="targetPoint" />
+            <mxPoint x="203.1400000000002" y="2230" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-160" y="2020" />
+              <mxPoint x="-160" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-134" target="krPlbpfWzNV4lJsfmJuA-149" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-157" value="Alone" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-156" vertex="1" connectable="0">
+          <mxGeometry x="-0.2667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-134" value="Trip is alone or with friends?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="287.99" y="2261" width="114" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-149" value="End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="311.99" y="2431" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-159" target="krPlbpfWzNV4lJsfmJuA-134" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="112.5" y="2402.6666666666665" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="2320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-163" value="Friends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-162" vertex="1" connectable="0">
+          <mxGeometry x="0.0443" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-159" value="It counts for two more times to do it, what makes it for three people." style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-240" y="2020" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-166" target="krPlbpfWzNV4lJsfmJuA-169" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-171" value="Hall or window" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-170" vertex="1" connectable="0">
+          <mxGeometry x="0.14" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-166" target="krPlbpfWzNV4lJsfmJuA-88" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="1660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-173" value="Middle" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="krPlbpfWzNV4lJsfmJuA-172" vertex="1" connectable="0">
+          <mxGeometry x="-0.5443" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-166" value="Which one?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="110" y="1475" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-169" value="Add 15.000 to the price" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-120" y="1485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPlbpfWzNV4lJsfmJuA-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.033;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krPlbpfWzNV4lJsfmJuA-169" target="krPlbpfWzNV4lJsfmJuA-88" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-80" y="1663" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oO0bYbiZ8bRW-fSFhfre-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oO0bYbiZ8bRW-fSFhfre-0" target="oO0bYbiZ8bRW-fSFhfre-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oO0bYbiZ8bRW-fSFhfre-0" value="It asks if the user wants to see the report of the last 10 trips or if he wants to see trip options" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="213.92" y="-230" width="262.19" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oO0bYbiZ8bRW-fSFhfre-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oO0bYbiZ8bRW-fSFhfre-2" target="krPlbpfWzNV4lJsfmJuA-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oO0bYbiZ8bRW-fSFhfre-7" value="Trip options" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oO0bYbiZ8bRW-fSFhfre-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.0999" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTML03llsNf3h9MvR_S_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oO0bYbiZ8bRW-fSFhfre-2" target="fTML03llsNf3h9MvR_S_-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTML03llsNf3h9MvR_S_-4" value="Report" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fTML03llsNf3h9MvR_S_-1" vertex="1" connectable="0">
+          <mxGeometry x="-0.1681" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oO0bYbiZ8bRW-fSFhfre-2" value="Report or explore trip options" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="295.01" y="-110" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fTML03llsNf3h9MvR_S_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fTML03llsNf3h9MvR_S_-0" target="fTML03llsNf3h9MvR_S_-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTML03llsNf3h9MvR_S_-0" value="It shows the past 10 trips" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="510" y="-90" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTML03llsNf3h9MvR_S_-2" value="It compares all the trips in price, to show the most expensive one." style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="750" y="-95" width="160" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
